@@ -8,7 +8,7 @@
   - Hey there 👋 I'm <strong>Trisha Chetani</strong>.
    </p>
    <p align="left">
-   - 🔭  I love learning about any new topic. To improve me professionally, I spend most of my time learning about testing and development through making and involving myself in open source projects or any other collaboration.   
+   - 🔭  I love learning about any new topic. To improve me professionally, I spend most of my time learning about software testing and development through making and involving myself in open source projects or any other collaboration.   
   </p>
   <p align="left">
   - 👯  I do share what and how I am approaching learning new topics both personally and professionally.
