@@ -29,3 +29,10 @@
     <!-- <a href="https://dev.to/trishachetani"><img src="https://img.shields.io/badge/Download_Resume-CB4D89?style=plastic&logo=googledrive&logoColor=white" height=25></a> -->
   </p>
 
+<!-- code stats -->
+  
+   <h3 align="center">Code Stats</h3>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=TrishaChetani&theme=monokai&date_format=j%20M%5B%20Y%5D">
+  </p>
+
