@@ -8,15 +8,15 @@
   - Hey there 👋 I'm <strong>Trisha Chetani</strong>.
    </p>
    <p align="left">
-   - 🔭  I love learning new things about testing and development through making and involving myself in cool projects.  
+   - 🔭  I love learning about any new topic. To improve me professionally, I spend most of my time learning about testing and development through making and involving myself in open source projects.   
   </p>
   <p align="left">
-  - 👯  I do share what and how I am approaching to learn new topics
+  - 👯  I do share what and how I am approaching learning new topics both personally and professionally
   </p>
   <p align="left">
-  - 💬 Ask me about testing, automation
+  - 💬  Ask me about testing, automation
   </p>
-  - 😄 Pronouns: she
+  - 😄  Pronouns: she
 
   
 <!-- SOCIALS -->
